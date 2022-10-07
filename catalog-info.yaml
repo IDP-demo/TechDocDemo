@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: TechDocDemo
-    description: |
+  description: |
     This is description
   annotations:
     backstage.io/techdocs-ref: dir:.

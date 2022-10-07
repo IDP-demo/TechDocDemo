@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: TechDocDemo
+  name: technotedemo
   description: |
-    This is description
-  annotations:
-    backstage.io/techdocs-ref: dir:.
+   This is description
+ annotations:
+   backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: IDP-Demo

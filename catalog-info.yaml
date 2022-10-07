@@ -4,3 +4,7 @@ metadata:
   name: TechDocDemo
   annotations:
     backstage.io/techdocs-ref: dir:.
+spec:
+  type: library
+  owner: IDP-Demo
+  lifecycle: experimental

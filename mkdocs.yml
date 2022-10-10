@@ -2,6 +2,7 @@ site_name: 'TechDoc Demo'
 
 nav:
   - Home: index.md
+  - Second Page: page2.md
 
 plugins:
   - techdocs-core

@@ -3,10 +3,10 @@
 This is a basic example of documentation home page.
 
 Bullets:
-+ Bullet 1
-+ Bullet 2
-+ Bullet 3
-+ Bullet 4
++ first
++ second
++ third
+
 
 ## Heading level 2
 

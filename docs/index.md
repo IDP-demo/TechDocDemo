@@ -2,12 +2,6 @@
 
 This is a basic example of documentation home page.
 
-Bullets:
-- first
-- second
-- third
-
-
 ## Heading level 2
 
 Some text here.
@@ -18,11 +12,6 @@ Some text here.
 > Blockquote and some text on it
 
 ### Heading level 3
-
-Numbers:
-1. First item
-2. Seconds item
-3. Third item
 
 Code Block:
 
